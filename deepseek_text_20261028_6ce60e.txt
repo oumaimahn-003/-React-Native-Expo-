@@ -1,0 +1,16 @@
+Données valides : true
+=== Catalogue ===
+Clavier - 120 MAD
+Souris - 80 MAD
+Écran - 900 MAD
+Casque - 240 MAD
+
+Produits disponibles : 3
+Valeur du stock : 1960 MAD
+Produit disponible le moins cher : Souris (80 MAD)
+
+=== Résumé ===
+Clavier - 120 MAD - 5 unités
+Souris - 80 MAD - 8 unités
+Écran - 900 MAD - 0 unités
+Casque - 240 MAD - 3 unités
